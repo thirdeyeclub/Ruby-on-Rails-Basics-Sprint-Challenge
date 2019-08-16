@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
     spec.metadata["allowed_push_host"] = "http://example.com"
 
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "Thttp://example.com"
+    spec.metadata["source_code_uri"] = "http://example.com"
     spec.metadata["changelog_uri"] = "http://example.com"
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
